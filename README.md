@@ -2,7 +2,9 @@
 The final code for Lasata Tuladhar's work at NASA Goddard Space Flight Center for Summer 2023 under the CRESST II Internship program.
 
 Project Description: A primary concern in the search for exoplanets via the transit technique is the rejection of false positive detections, which are often caused by eclipsing binaries, and of false alarms, which are often caused by instrumental artifacts and stellar variability. Given the vast number of stars and large data sets analyzed in transiting exoplanet searches, the identification and rejection of false positives and false alarms must be automated. However, the algorithms used to automate these processes can be subject to biases, and often need to be fine-tuned by hand.
- 
+
+
 In this project, we will improve our ability to identify transiting planets by combing through a pre-selected subset of TESS data identified by our algorithms as likely to have transiting exoplanets, and classify the events found by the algorithm. By incorporating these classifications into new algorithms, we can improve the efficiency with which we are able to detect exoplanets and remove contamination. The student will learn the procedure used to search for transiting planets, and the statistical tests used to remove poor quality candidates, improving the efficiency of these procedures for use with larger datasets.
- 
+
+
 The student will also work with transiting exoplanet candidates discovered by the Kepler mission that have passed quality checks implemented by similar planet candidate identification and validation algorithms but may still be biased based not on the light curve data, but on the astrophysical scenario specific to the exoplanet candidate itself, such as the likelihood of a stellar companion. In these cases, we will supplement the light curve data from Kepler with publicly available high resolution imaging data and radial velocity data to scrutinize the reliability of these exoplanet candidates and discern the astrophysical nature of the system. From this project, the student will develop the skills to analyze a diverse set of observational data and combine unique datasets to interpret the results in an astrophysical context.
